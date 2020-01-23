@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="es.b.drawingwithandroid.MainActivity">
+    <item
+        android:id="@+id/home"
+        android:orderInCategory="100"
+        android:title="@string/home"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/myViewObject"
+        android:orderInCategory="100"
+        android:title="@string/myViewObject"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/myCanvasActivity"
+        android:orderInCategory="100"
+        android:title="@string/myCanvasActivity"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/myBallActivity"
+        android:orderInCategory="100"
+        android:title="@string/myBallActivity"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/myBallAndPaletteActivity"
+        android:orderInCategory="100"
+        android:title="@string/myBallAndPaletteActivity"
+        app:showAsAction="never" />
+</menu>

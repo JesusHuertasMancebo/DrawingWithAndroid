@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DrawingWithAndroid</string>
+    <string name="action_settings">Settings</string>
+    <string name="home">Inici</string>
+    <string name="title_activity_my_view_object">MyViewObjectActivity</string>
+    <string name="myViewObject">My View Object</string>
+    <string name="title_activity_my_canvas">MyCanvasActivity</string>
+    <string name="myCanvasActivity">My Canvas Activity</string>
+    <string name="title_activity_my_ball">MyBallActivity</string>
+    <string name="myBallActivity">My Ball Activity</string>
+    <string name="title_activity_my_ball_and_palette">MyBallAndPaletteActivity</string>
+    <string name="myBallAndPaletteActivity">My Ball And Palette</string>
+</resources>
